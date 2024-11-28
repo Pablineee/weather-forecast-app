@@ -1,18 +1,18 @@
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
-  background: linear-gradient(to bottom, #87ceeb, #f0f8ff);
+  background: linear-gradient(to bottom, #c5cbf3d2, #9aadb896);
   background-repeat: no-repeat;
   color: #333;
   text-align: center;
 }
 
-.App {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  align-items: center;
-  padding: 50px;
+.card p {
+  margin-right: 15px;
+  font-size: 1.3rem;
 }
 
-
+.card p span {
+  margin-right: 10px;
+  font-size: 1.3rem;
+}
