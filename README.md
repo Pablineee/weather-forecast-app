@@ -13,4 +13,4 @@
 
 ## Screenshots
 
-![Weather Forecast Application](screenshots/screenshot_1.png)
+![Weather Forecast Application](https://imgur.com/rnPmBdZ)
