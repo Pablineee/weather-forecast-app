@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-![Main App]([https://i.imgur.com/YQGMvb6.png])
+![Main App](https://i.imgur.com/YQGMvb6.png)
 
 
 ## API Reference
