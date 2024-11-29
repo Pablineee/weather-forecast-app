@@ -20,7 +20,7 @@ const SearchBar = ({ onSearch }) => {
                 className='form-control rounded me-2'
                 onChange={(e) => setCity(e.target.value)}
             />
-            <button className='rounded btn btn-dark' type='submit'>Search</button>
+            <button className='rounded btn btn-outline-light' type='submit'>Search</button>
         </form>
     )
 };
