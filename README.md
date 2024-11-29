@@ -13,4 +13,4 @@
 
 ## Screenshots
 
-![Weather Forecast Application](101153741_comp3123_labtest2/public/screenshots/screenshot_1.png)
+![Weather Forecast Application](./101153741_comp3123_labtest2/public/screenshots/screenshot_1.png)
