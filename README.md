@@ -13,4 +13,9 @@
 
 ## Screenshots
 
-![Weather Forecast Application](https://imgur.com/rnPmBdZ)
+![Main App](https://i.imgur.com/YQGMvb6.png)
+
+
+## API Reference
+
+### OpenWeatherAPI
