@@ -21,7 +21,7 @@ This **Weather Forecast Application** allows users to retrieve **real-time weath
      - **Air Pressure (mb)**  
      - **Max/Min Temperatures**
 
-3. **Weekly Forecast (Coming Soon)**  
+3. **Weekly Forecast**  
    - Placeholder for a **5-day weather forecast** feature.
 
 ---
